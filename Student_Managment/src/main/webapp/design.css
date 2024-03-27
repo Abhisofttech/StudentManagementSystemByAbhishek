@@ -1,0 +1,54 @@
+body{
+	background: #000;
+}
+.frm{
+	background: #000;
+	color:aliceblue;
+	
+}
+.text{
+	color:aliceblue;
+	font-size: 26px;
+	margin-left:20%;
+}
+.text1{
+	color:rgb(43, 132, 210);
+	font-size: 20px;
+}
+h1{
+	
+	height: 50px;
+	background: rgb(255, 239, 8);
+	color: rgba(57, 0, 244, 0.88);
+}
+h3{
+	color: rgba(57, 0, 244, 0.88);
+	font-size: 30px;
+}
+.btn{
+	background: rgb(42, 35, 238);
+	color: azure;
+}
+.h{
+	background: #000;
+}
+.register {
+	background-color: #cd6b1a;
+	border: none;
+	color: rgb(255, 255, 255);
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	
+	cursor: pointer;
+	padding: 5px;
+  }
+  .register a{
+	color: azure;
+  }
+  
+  
+  
+  
